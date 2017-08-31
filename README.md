@@ -2,23 +2,20 @@
 You should only have to install Homebrew and Node once in your time at Prime. Follow the instructions below.
 
 ## Installing Homebrew and Node.js (one-time)
-1. [Install Homebrew](http://brew.sh/). This will be done on the command line (Terminal). 
+1. [Install Homebrew](http://brew.sh/). This will be done on the command line (Terminal). Paste the command under from the Homebrew site into the terminal.
+2. When asked for a password, enter the password to log into your computer. Note: The screen won't change as you type.
 2. Once Homebrew is installed, run the command: `brew install node`
-3. When this is complete, run this at your Terminal: `node --version` If you see a number, you are good to go.
+3. When this is complete, run this at your Terminal: `node --version` If you see a number, you are good to go!
 
 
 ## Install the dependencies for the assignemnt.
-
-Navigate into the assignment directory. eg: `prework-week-2-assignment`.
-
-npm stands for "node package manager"
-Then run the command `npm install` in the terminal.  This will install all the needed packages for the tests to work in that directory. 
+1. Navigate into the assignment directory, eg: `prework-week-2-assignment`.
+2. Then run the command `npm install` in the terminal. "npm" stands for "node package manager". This will install all the needed packages for the tests to work in that directory. 
 
 
 ## Run the tests
-use the command `npm test` in the assignment directory
-
-The tests will show up in the terminal. The terminal will focus on the tests that fail. They will probably have some text in red. The text will be very similiar to the test on the Testing App. 
+1. Use the command `npm test` in the assignment directory
+2. The tests will show up in the terminal. The terminal will focus on the tests that fail. They will probably have some text in red. The text will be very similiar to the test on the Testing App. 
 
 
 # Reading the Tests
