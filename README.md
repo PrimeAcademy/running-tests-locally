@@ -20,7 +20,6 @@ use the command `npm test` in the assignment directory
 
 The tests will show up in the terminal. The terminal will focus on the tests that fail. They will probably have some text in red. The text will be very similiar to the test on the Testing App. 
 
----
 
 # Reading the Tests
 
