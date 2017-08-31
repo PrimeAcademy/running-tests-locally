@@ -8,7 +8,7 @@ You should only have to install Homebrew and Node once in your time at Prime. Fo
 3. When this is complete, run this at your Terminal: `node --version` If you see a number, you are good to go!
 
 
-## Install the dependencies for the assignemnt.
+## Install the packages for the assignment's tests
 1. Navigate into the assignment directory, eg: `prework-week-2-assignment`.
 2. Then run the command `npm install` in the terminal. "npm" stands for "node package manager". This will install all the needed packages for the tests to work in that directory. 
 
